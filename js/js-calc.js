@@ -7,7 +7,7 @@ document.getElementById("addBtn").onclick = function add() {
 }
 document.getElementById("subBtn").onclick = function sub() {
 	var z= x - y;
-  	alert(z);
+  	alert(z); 
 }
 document.getElementById("multiplyBtn").onclick = function multiply() {
 	var z= x * y;
